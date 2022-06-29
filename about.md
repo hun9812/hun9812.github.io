@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+공부를 하기 위해 만든 블로그입니다.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+매주 1개 이상 깃헙 및 블로그에 push하기!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ihyh1231@naver.com](mailto:ihyh1231@naver.com)
