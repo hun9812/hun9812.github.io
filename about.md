@@ -8,7 +8,7 @@ permalink: /about/
 
 ### More Information
 
-매주 1개 이상 깃헙 및 블로그에 push하기!
+하루에 한 글자라도 올리기
 
 ### Contact me
 
